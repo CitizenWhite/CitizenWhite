@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CitizenWhite
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in ... Ruby
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
